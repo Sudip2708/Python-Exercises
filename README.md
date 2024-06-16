@@ -10,7 +10,7 @@ Máte-li nainstalovaný Python, pak pro spuštění cvičení postačí na ně d
 ### Screenshoty
 
 Dále jsem si dovolil přidat pár náhledů na cvičení dělaná v TK Inter a v Želví grafice,
-a to hlavně proto, aby bylo vidět, že učení se programovat nemusí být vůbec nudná věc :-)
+a to hlavně proto, aby bylo vidět, že učit se programovat nemusí být vůbec nudná věc :-)
 
 ###### 03_02_hvězdná_obloha
 ![03_02_hvězdná_obloha](!Cvičení/Obrázky/03_02_hvězdná_obloha.jpg)
